@@ -1,3 +1,5 @@
+link for binance npm : https://www.npmjs.com/package/node-binance-api
+
 1. binance.balance : for get user current Balance
 
 2. binance.allBookTickers : Get bid/ask prices
